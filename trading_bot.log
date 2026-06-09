@@ -1,0 +1,4 @@
+2026-06-09 13:02:58,979 | INFO     | Order Request -> Symbol: BTCUSDT | Side: BUY | Type: MARKET | Qty: 0.01 | Price: None
+2026-06-09 13:02:59,990 | INFO     | SUCCESS! Order ID: 14551027344 | Status: NEW | Executed Qty: 0.0000
+2026-06-09 13:03:48,350 | INFO     | Order Request -> Symbol: ETHUSDT | Side: SELL | Type: LIMIT | Qty: 0.1 | Price: 3500.0
+2026-06-09 13:03:49,068 | INFO     | SUCCESS! Order ID: 9364417305 | Status: NEW | Executed Qty: 0.000
